@@ -1,0 +1,50 @@
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+  margin: 1em 0;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+button {
+  padding: 0.5em 1em;
+  margin: 0.5em;
+  border: 1px solid #000;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #f0f0f0;
+}
+
+.details {
+  margin-top: 1em;
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.klaxon-message {
+  margin-top: 1em;
+  color: #888;
+}
+
+form {
+  margin-top: 2rem;
+}
+
+input, select {
+  padding: 0.5em;
+  margin: 0.5em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
